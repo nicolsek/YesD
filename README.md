@@ -6,5 +6,6 @@ The Daemon that nobody asked for.
 * [port] defaults to 8080.
 
 # Example
-`$ python yesd.py 2000`
-`$ nc localhost 2000` y
+> `$ python yesd.py 2000`
+> `$ nc localhost 2000`
+> y
